@@ -62,10 +62,6 @@ p:first-letter{
   margin-right: 25px;
 }
 
-ul {
-  list-style-image: url('bogyo.png');
-}
-
 li{
   margin: 3px 0px;
   font-style: italic;
